@@ -1,7 +1,7 @@
 # Gen_Passwd
 
 ```
-usage: genpasswd.py [-h] [-l | --length LENGTH] [-S | --no-special] [-A | --no-ambiguous]\n
+usage: genpasswd.py [-h] [-l | --length LENGTH] [-S | --no-special] [-A | --no-ambiguous]
 [-U | --no-uppercase] [-L | --no-lowercase] [-D | --no-digits] [-c | --count COUNT]
 
 options:
