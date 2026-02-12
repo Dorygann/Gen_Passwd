@@ -1,5 +1,6 @@
 # Gen_Passwd
 
+```
 usage: genpasswd.py [-h] [-l LENGTH] [-S] [-A] [-U] [-L] [-D] [-c COUNT] [-o]
 
 options:
@@ -11,4 +12,4 @@ options:
   -L, --no-lowercase   Désactiver les minuscules
   -D, --no-digits      Désactiver les nombres
   -c, --count COUNT    Définir x nombre de mot de passe (défaut: 1)
-  -o, --output         Sauvegarde du / des mot de passe dans un fichier .txt
+```
