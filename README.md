@@ -14,3 +14,14 @@ options:
   -D, --no-digits      Disable digits
   -c, --count COUNT    Generate x passwords (default: 1)
 ```
+
+## Examples
+
+```
+you> python3 genpasswd.py -S -l 50 -c 3 
+// Generating 3 passwords of 50 chars without special characters
+
+CISCOgs0BurpYpTL18IULB8cZTIcwyx8nQMGrnNNY0cvuwLNPa
+jKfCrb7ewXtjKIUVzZK4ByokJ0qiMoET3K0DNBysgBGt5GbJXf
+2uLoiY0vQTOosodG15MOAXcsEz1nn33rz1KXzac4kbLH1Z0eU1
+```
